@@ -1,0 +1,1 @@
+print("ini dari yang kedua yaa")
